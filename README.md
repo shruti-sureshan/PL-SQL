@@ -4,7 +4,7 @@ PL/SQL is a combination of SQL along with the procedural features of programming
 
 PL/SQL gives high productivity to programmers as it can query, transform, and update data in a database. PL/SQL saves time on design and debugging by strong features, such as exception handling, encapsulation, data hiding, and object-oriented data types.
 
-List of Experiments:
+**List of Experiments:**<br/>
 •	Finding the biggest number by directly assigning values to variables if then loop.<br/>
 •	Program to get salary of an employee with a specific SSN and display it on the screen<br/>
 •	Program to print numbers from 1 to 5 using simple loop<br/>
